@@ -1,10 +1,3 @@
-/*
- * Abdullah Kheruwala
- * UCID : amk75
- * 2018 Spring - CS 644
- * Big Data - Assignment 3
- */
-
 package com.code.MapRed;
 
 //IMPORTING JAVA PACKAGES AND HADOOP PACKAGES
