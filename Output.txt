@@ -1,0 +1,4 @@
+CLUBS   Suit is complete!!! No missing card!
+DIAMONDS        3,4,9,10,13
+HEARTS  4,5,6,9,13
+SPADES  8,11,13
